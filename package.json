@@ -2,9 +2,9 @@
 	"name": "JetBrainsIcons",
 	"displayName": "JetBrains IDEA Icons",
 	"description": "JetBrains Icons",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"publisher": "Mostik",
-	"icon": "./screenshot.png",
+	"icon": "screenshot.png",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
