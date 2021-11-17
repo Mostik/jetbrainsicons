@@ -1,0 +1,27 @@
+{
+	"name": "JetBrainsIcons",
+	"displayName": "JetBrains IDEA Icons",
+	"description": "JetBrains Icons",
+	"version": "1.0.2",
+	"publisher": "Mostik",
+	"icon": "./screenshot.png",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"galleryBanner": {
+		"color": "#830412",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "jetbrainsicons",
+				"label": "JetBrains Icons",
+				"path": "./thebesticon.json"
+			}
+		]
+	}
+}

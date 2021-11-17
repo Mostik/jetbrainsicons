@@ -1,0 +1,417 @@
+{
+    "iconDefinitions": {
+        "_root_folder_dark": {
+            "iconPath": "./icon/folder.svg"
+        },
+        "_root_folder_open_dark": {
+            "iconPath": "./icon/openfolder.svg"
+        },
+        "_folder_dark": {
+            "iconPath": "./icon/folder.svg"
+        },
+        "_folder_open_dark": {
+            "iconPath": "./icon/openfolder.svg"
+        },
+        "_file_dark": {
+            "iconPath": "./icon/file.svg"
+        },
+        "_root_folder": {
+            "iconPath": "./icon/folder.svg"
+        },
+        "_root_folder_open": {
+            "iconPath": "./icon/openfolder.svg"
+        },
+        "_orange_folder": {
+            "iconPath": "./icon/orangefolder.svg"
+        },
+        "_green_folder": {
+            "iconPath": "./icon/greenfolder.svg"
+        },
+        "_folder_light": {
+            "iconPath": "./icon/folder.svg"
+        },
+        "_folder_open_light": {
+            "iconPath": "./icon/folder.svg"
+        },
+        "_file_light": {
+            "iconPath": "./icon/file.svg"
+        },
+        "_java_file": {
+            "iconPath": "./icon/java.svg"
+        },
+        "_ignore_file": {
+            "iconPath": "./icon/ignore.svg"
+        },
+        "_rust_file": {
+            "iconPath": "./icon/rust.svg"
+        },
+        "_coffee_file": {
+            "iconPath": "./icon/coffee.svg"
+        },
+        "_file_file": {
+            "iconPath": "./icon/file.svg"
+        },
+        "_json_file": {
+            "iconPath": "./icon/json.svg"
+        },
+        "_text_file": {
+            "iconPath": "./icon/text.svg"
+        },
+        "_asm_file": {
+            "iconPath": "./icon/asm.svg"
+        },
+        "_c_file": {
+            "iconPath": "./icon/c.svg"
+        },
+        "_cmake_file": {
+            "iconPath": "./icon/cmake.svg"
+        },
+        "_config_file": {
+            "iconPath": "./icon/config.svg"
+        },
+        "_cs_file": {
+            "iconPath": "./icon/csharp_2.svg"
+        },
+        "_dart_file": {
+            "iconPath": "./icon/dart.svg"
+        },
+        "_cr_file": {
+            "iconPath": "./icon/crystal.svg"
+        },
+        "_nim_file": {
+            "iconPath": "./icon/nim.svg"
+        },
+        "_go_file": {
+            "iconPath": "./icon/go.svg"
+        },
+        "_h_file": {
+            "iconPath": "./icon/h.svg"
+        },
+        "_kotlin_file": {
+            "iconPath": "./icon/kotlin.svg"
+        },
+        "_swift_file": {
+            "iconPath": "./icon/swift.svg"
+        },
+        "_scala_file": {
+            "iconPath": "./icon/scala.svg"
+        },
+        "_cpp_file": {
+            "iconPath": "./icon/cpp.svg"
+        },
+        "_php_file": {
+            "iconPath": "./icon/php.svg"
+        },
+        "_css_file": {
+            "iconPath": "./icon/css.svg"
+        },  
+        "_html_file": {
+            "iconPath": "./icon/html.svg"
+        },
+        "_js_file": {
+            "iconPath": "./icon/javascript.svg"
+        },
+        "_ts_file": {
+            "iconPath": "./icon/typescript.svg"
+        },  
+        "_sql_file": {
+            "iconPath": "./icon/sql.svg"
+        },
+        "_txt_file": {
+            "iconPath": "./icons/icon_txt_16.png"
+        },         
+        "_xml_file": {
+            "iconPath": "./icon/xml.svg"
+        },
+        "_log_file": {
+            "iconPath": "./icons/icon_log_16.png"
+        },
+        "_md_file": {
+            "iconPath": "./icon/markdown.svg"
+        },
+        "_yml_file": {
+            "iconPath": "./icon/yaml.svg"
+        },
+        "_py_file": {
+            "iconPath": "./icon/python.svg"
+        },   
+        "_rb_file": {
+            "iconPath": "./icon/ruby.svg"
+        },
+        "_vue_file": {
+            "iconPath": "./icon/vue.svg"
+        },
+        "_actionscript_file": {
+            "iconPath": "./icon/as.svg"
+        },
+        "_aj_file": {
+            "iconPath": "./icon/aj.svg"
+        },
+        "_application_xml_file": {
+            "iconPath": "./icon/appxml.svg"
+        },
+        "_blade_file": {
+            "iconPath": "./icon/blade.svg"
+        },
+        "_csv_file": {
+            "iconPath": "./icon/csv.svg"
+        },
+        "_cu_file": {
+            "iconPath": "./icon/cu.svg"
+        },
+        "_cuh_file": {
+            "iconPath": "./icon/cuh.svg"
+        },
+        "_docker_compose_file": {
+            "iconPath": "./icon/dockercompose.svg"
+        },
+        "_docker_file": {
+            "iconPath": "./icon/docker.svg"
+        },
+        "_dql_file": {
+            "iconPath": "./icon/dql.svg"
+        },
+        "_dtd_file": {
+            "iconPath": "./icon/dtd.svg"
+        },
+        "_eslint_file": {
+            "iconPath": "./icon/eslint.svg"
+        },
+        "_facelets_file": {
+            "iconPath": "./icon/facelets.svg"
+        },
+        "_ftp_file": {
+            "iconPath": "./icon/ftp.svg"
+        },
+        "_ftps_file": {
+            "iconPath": "./icon/ftps.svg"
+        },
+        "_gradle_file": {
+            "iconPath": "./icon/gradle.svg"
+        },
+        "_gradle_dart_file": {
+            "iconPath": "./icon/gradle_dart.svg"
+        },
+        "_haml_file": {
+            "iconPath": "./icon/haml.svg"
+        },
+        "_handlebars_file": {
+            "iconPath": "./icon/handlebars.svg"
+        },
+        "_hprof_file": {
+            "iconPath": "./icon/hprof.svg"
+        },
+        "_htaccess_file": {
+            "iconPath": "./icon/htaccess.svg"
+        },
+        "_htmlnotebook_file": {
+            "iconPath": "./icon/htmlnotebook.svg"
+        },
+        "_httprequests_file": {
+            "iconPath": "./icon/httprequests.svg"
+        },
+        "_idl_file": {
+            "iconPath": "./icon/idl.svg"
+        },
+        "_interectivenote_file": {
+            "iconPath": "./icon/interectivenote.svg"
+        },
+        "_ioc_file": {
+            "iconPath": "./icon/ioc.svg"
+        },
+        "_ipythonnotebook_file": {
+            "iconPath": "./icon/ipythonnotebook.svg"
+        },
+        "_jade_file": {
+            "iconPath": "./icon/jade.svg"
+        },
+        "_jest_file": {
+            "iconPath": "./icon/jest.svg"
+        },
+        "_jinja2_file": {
+            "iconPath": "./icon/jinja2.svg"
+        },
+        "_jsx_file": {
+            "iconPath": "./icon/jsx.svg"
+        },
+        "_ld_file": {
+            "iconPath": "./icon/ld.svg"
+        },
+        "_less_file": {
+            "iconPath": "./icon/less.svg"
+        },
+        "_m_file": {
+            "iconPath": "./icon/m.svg"
+        },
+        "_manifest_file": {
+            "iconPath": "./icon/manifest.svg"
+        },
+        "_plugin_file": {
+            "iconPath": "./icon/plugin.svg"
+        },
+        "_qt_file": {
+            "iconPath": "./icon/qt.svg"
+        },
+        "_r_file": {
+            "iconPath": "./icon/r.svg"
+        },
+        "_rbs_file": {
+            "iconPath": "./icon/rbs.svg"
+        },
+        "_rhtml_file": {
+            "iconPath": "./icon/rhtml.svg"
+        },
+        "_rjs_file": {
+            "iconPath": "./icon/rjs.svg"
+        },
+        "_rmarkdown_file": {
+            "iconPath": "./icon/rmarkdown.svg"
+        },
+        "_rxml_file": {
+            "iconPath": "./icon/rxml.svg"
+        },
+        "_sass_file": {
+            "iconPath": "./icon/sass.svg"
+        },
+        "_sbt_file": {
+            "iconPath": "./icon/sbt.svg"
+        },
+        "_sftp_file": {
+            "iconPath": "./icon/sftp.svg"
+        },
+        "_slim_file": {
+            "iconPath": "./icon/slim.svg"
+        },
+        "_springconfig_file": {
+            "iconPath": "./icon/springconfig.svg"
+        },
+        "_styl_file": {
+            "iconPath": "./icon/styl.svg"
+        },
+        "_tsv_file": {
+            "iconPath": "./icon/tsv.svg"
+        },
+        "_tsx_file": {
+            "iconPath": "./icon/tsx.svg"
+        },
+        "_webxml_file": {
+            "iconPath": "./icon/webxml.svg"
+        },
+        "_wsdl_file": {
+            "iconPath": "./icon/wsdl.svg"
+        },
+        "_xpath_file": {
+            "iconPath": "./icon/xpath.svg"
+        },
+        "_xsd_file": {
+            "iconPath": "./icon/xsd.svg"
+        },
+        "_xslt_file": {
+            "iconPath": "./icon/xslt.svg"
+        },
+        "_yarn_file": {
+            "iconPath": "./icon/yarn.svg"
+        },
+        "_opex_file": {
+            "iconPath": "./icon/opex.svg"
+        },
+        "_jar_file": {
+            "iconPath": "./icon/jar.svg"
+        }
+
+    },
+    "folder": "_folder_dark",
+    "file": "_file_dark",
+    "folderNames": {
+        "out": "_orange_folder",
+        "test": "_green_folder"
+    },
+    "rootFolderExpanded": "_root_folder_open_dark",
+    "rootFolder": "_root_folder_dark",
+    "fileExtensions": {
+        "txt": "_text_file",
+        "cr": "_cr_file",
+        "nim": "_nim_file",
+        "rs": "_rust_file",
+        "coffee": "_coffee_file",
+        "gitignore": "_ignore_file",
+        "asm": "_asm_file",
+        "c": "_c_file",
+        "cmake": "_cmake_file",
+        "config": "_config_file",
+        "cs": "_cs_file",
+        "dart": "_dart_file",
+        "go": "_go_file",
+        "h": "_h_file",
+        "hh": "_h_file",
+        "class": "_java_file",
+        "java": "_java_file",
+        "kt": "_kotlin_file",
+        "scala": "_scala_file",
+        "sc": "_scala_file",
+        "swift": "_swift_file",
+        "cpp": "_cpp_file",
+        "cc": "_cpp_file",
+        "cxx": "_cpp_file",
+        "c++": "_cpp_file",
+        "hxx": "_cpp_file",
+        "css": "_css_file",  
+        "html": "_html_file",
+        "htm": "_html_file",
+        "js": "_js_file",
+        "json": "_json_file",  
+        "log": "_log_file",
+        "md": "_md_file",
+        "php": "_php_file",
+        "py": "_py_file",
+        "rb": "_rb_file",
+        "sql": "_sql_file",
+        "ts": "_ts_file",
+        "yml": "_yml_file",
+        "xml": "_xml_file",
+        "vue": "_vue_file",
+        "aj": "_aj_file",
+        "htaccess": "_htaccess_file",
+        "less": "_less_file",
+        "sass": "_sass_file",
+        "scss": "_sass_file",
+        "jsx": "_jsx_file",
+        "tsx": "_tsx_file",
+        "yarn": "_yarn_file",
+        "pyc": "_py_file",
+        "cjs": "_js_file",
+        "groovy": "_groovy_file",
+        "hpp": "_cpp_file",
+        "ijs": "_java_file",
+        "j": "_java_file",
+        "jad": "_java_file",
+        "jmod": "_java_file",
+        "m": "_m_file",
+        "mjs": "_js_file",
+        "pyd": "_py_file",
+        "pyo": "_py_file",
+        "pypy": "_py_file",
+        "pyz": "_py_file",
+        "rbw": "_rb_file",
+        "rlib": "_rust_file",
+        "io": "_io_file",
+        "gradle": "_gradle_file",
+        "opex": "_opex_file",
+        "jar": "_jar_file",
+        "rar": "_jar_file",
+        "zip": "_jar_file"
+
+    },
+    "fileNames": {
+        "cmakelists.txt": "_cmake_file"
+
+
+    },
+    "light": {
+        "folderExpanded": "_folder_open_light",
+        "folder": "_folder_light",
+        "rootFolderExpanded": "_root_folder_open",
+        "rootFolder": "_root_folder",
+        "file": "_file_file"
+    }
+}
