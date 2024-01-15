@@ -330,6 +330,7 @@
     "rootFolder": "_root_folder_dark",
     "fileExtensions": {
         "txt": "_text_file",
+        "log": "_text_file",
         "cr": "_cr_file",
         "nim": "_nim_file",
         "rs": "_rust_file",
